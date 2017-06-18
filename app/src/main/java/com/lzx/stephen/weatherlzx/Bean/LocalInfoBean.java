@@ -1,4 +1,4 @@
-package com.mh.piety.mweather.Bean;
+package com.lzx.stephen.weatherlzx.Bean;
 
 /**
  * Created by PIETY on 2017/5/6.

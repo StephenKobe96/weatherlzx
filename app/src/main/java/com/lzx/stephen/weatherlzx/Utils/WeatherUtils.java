@@ -1,4 +1,4 @@
-package com.mh.piety.mweather.Utils;
+package com.lzx.stephen.weatherlzx.Utils;
 
 import android.content.Context;
 import android.graphics.Bitmap;
@@ -6,12 +6,12 @@ import android.graphics.BitmapFactory;
 import android.os.Environment;
 
 import com.google.son.Gson;
-import com.mh.piety.mweather.Bean.AQI;
-import com.mh.piety.mweather.Bean.DailyWeather;
-import com.mh.piety.mweather.Bean.LocalInfoBean;
-import com.mh.piety.mweather.Bean.NowWeather;
-import com.mh.piety.mweather.Bean.Suggestion;
-import com.mh.piety.mweather.Dao.WeatherDao;
+import com.lzx.stephen.weatherlzx.Bean.AQI;
+import com.lzx.stephen.weatherlzx.Bean.DailyWeather;
+import com.lzx.stephen.weatherlzx.Bean.LocalInfoBean;
+import com.lzx.stephen.weatherlzx.Bean.NowWeather;
+import com.lzx.stephen.weatherlzx.Bean.Suggestion;
+import com.lzx.stephen.weatherlzx.Dao.WeatherDao;
 
 import org.json.JSONObject;
 

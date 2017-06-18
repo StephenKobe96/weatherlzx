@@ -1,4 +1,4 @@
-package com.mh.piety.mwe;
+package com.lzx.stephen.weatherlzx;
 
 import android.Manifest;
 import android.content.Context;
@@ -187,10 +187,10 @@ public class MainActivity extends AppCompatActivity {
                                     text_scc.setText("...");
                                     text_damp.setText("...%");
                                     text_seeing.setText("...km");
-                                    image_icon.setImageResource(R.drawable.none);
-                                    image_day1Icon.setImageResource(R.drawable.none);
-                                    image_day2Icon.setImageResource(R.drawable.none);
-                                    image_day3Icon.setImageResource(R.drawable.none);
+                                    image_icon.setImageResource(R.drawable.lzx_none);
+                                    image_day1Icon.setImageResource(R.drawable.lzx_none);
+                                    image_day2Icon.setImageResource(R.drawable.lzx_none);
+                                    image_day3Icon.setImageResource(R.drawable.lzx_none);
                                     text_day1Cond.setText("...");
                                     text_day2Cond.setText("...");
                                     text_day3Cond.setText("...");

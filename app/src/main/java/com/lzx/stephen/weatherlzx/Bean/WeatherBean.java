@@ -1,4 +1,4 @@
-package com.mh.piety.mweather.Bean;
+package com.lzx.stephen.weatherlzx.Bean;
 
 import android.graphics.Bitmap;
 

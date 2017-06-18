@@ -1,4 +1,4 @@
-package com.mh.piety.mweather;
+package com.lzx.stephen.weatherlzx;
 
 import android.content.Context;
 import android.content.Intent;
@@ -16,7 +16,7 @@ import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.mh.piety.mweather.Utils.PositionUtil;
+import com.lzx.stephen.weatherlzx.Utils.PositionUtil;
 
 import java.util.ArrayList;
 

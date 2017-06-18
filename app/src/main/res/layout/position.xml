@@ -20,7 +20,7 @@
 >>>>>>> 省市名称完善，地级市定位完善
             android:layout_width="32dp"
             android:layout_height="32dp"
-            android:src="@drawable/back"/>
+            android:src="@drawable/lzx_back"/>
         <TextView
 <<<<<<< 75c7f430b7ff9055543a38b9c135461ec362a663
             android:id="@+id/tv_title"

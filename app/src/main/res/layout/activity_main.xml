@@ -11,7 +11,7 @@
     android:id="@+id/drawer_activity"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/bg"
+    android:background="@drawable/lzx_bg"
     tools:openDrawer="start"
     android:fitsSystemWindows="true"
     tools:context="com.mh.piety.mweather.MainActivity">

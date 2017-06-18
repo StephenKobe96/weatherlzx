@@ -1,4 +1,4 @@
-package com.mh.piety.mweather.Dao;
+package com.lzx.stephen.weatherlzx.Dao;
 
 
 import android.content.ContentValues;
@@ -7,7 +7,7 @@ import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.util.Log;
 
-import com.mh.piety.mweather.Bean.LocalInfoBean;
+import com.lzx.stephen.weatherlzx.Bean.LocalInfoBean;
 
 import java.util.ArrayList;
 

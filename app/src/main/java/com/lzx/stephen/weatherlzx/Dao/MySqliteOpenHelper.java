@@ -1,4 +1,4 @@
-package com.mh.piety.mweather.Dao;
+package com.lzx.stephen.weatherlzx.Dao;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
